@@ -22,3 +22,8 @@ c = 1.9
 d = 8
 
 print(c+d)
+
+
+a=2
+b=3
+print (a+b)
