@@ -18,11 +18,13 @@
 # print(f"my name is {name}")
 
 
-def add(a,b):
-    """
-    This function adds two numbers.
-    """
-    return a+b
-print(add.__doc__)
+# def add(a,b):
+#     """
+#     This function adds two numbers.
+#     """
+#     return a+b
+# print(add.__doc__)
 
-
+file =open("data.txt","r")
+print(file.read)
+file.close()
